@@ -6,7 +6,7 @@ modified: 2026-08-03
 created: 2026-08-03
 ---
 
-![Retype Logo](src/assets/retype.svg)
+![Retype Logo](https://i.postimg.cc/0jqPfJ9c/retype.jpg)
 
 ## All about Retype
 
