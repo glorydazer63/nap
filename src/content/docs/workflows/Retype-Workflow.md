@@ -6,7 +6,7 @@ modified: 2026-08-03
 created: 2026-08-03
 ---
 
-![Retype Logo](../../assets/retype.svg)
+![Retype Logo](src/assets/retype.svg)
 
 ## All about Retype
 

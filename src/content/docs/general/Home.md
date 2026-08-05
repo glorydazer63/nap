@@ -7,7 +7,7 @@ seo: false
 created: 2026-07-07
 modified: 2026-08-05
 ---
-![Hero Image](../../assets/n-pbanner.png)
+![Hero Image](src/assets/n-pbanner.png)
 
 This is the web presence of **Notes And Pages**, a boutique site built around providing support and assistance to those small businesses which require expertise around small/static website design, content and technical writing.
 

@@ -6,7 +6,7 @@ created: 2026-07-23
 modified: 2026-08-05
 ---
 
-![Flowershow Logo](../../assets/flowershow.webp)
+![Flowershow Logo](src/assets/flowershow.webp)
 
 ## All about Flowershow
 Researching static website tools back in 2025, I discovered this boutique web portal application that integrates to a Obsidian-Flowershow-Vercel model.

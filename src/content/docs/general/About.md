@@ -7,6 +7,7 @@ latest:
 created: 2026-07-07
 modified: 2026-08-05
 ---
+
 ## Bio
 Hello, my name is George, my career has revolved around being a technical writer, web developer and user educator with 20+ years of corporate experience. I'm semi retired now, and am involved with building static websites using a variety of static site generator tools, including Flowershow, Retype and Astro. I also fiddle around in the Nostr community, looking at ways of building web publishing initiatives through that ecosystem at little to zero cost.
 
