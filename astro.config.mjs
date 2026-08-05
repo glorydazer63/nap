@@ -4,8 +4,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://glorydazer63.github.io/napastro',
-  base: '/',
+  site: 'https://glorydazer63.github.io/nap',
+  base: '/nap',
   output: 'static',
   integrations: [
 		starlight({

@@ -58,6 +58,11 @@ git push -u origin main
 
 The content should now reside with the Repo
 
+## Configure the Repo
+1. A 'deploy.yml' script needs to be added to GitHub actions. This script needs to show a Node.JS build beyond v20, as that is now deprecated. As at August 2026, the latest version is v26.
+2. Go to Settings > Pages. Set the runtime to 'GitHub Actions' not Branch Main'.
+3. Once this is done, GitHub will begin publishing.
+
 ## Integrate to Netlify
 1. Add a GitHub Action (netlify).
 
