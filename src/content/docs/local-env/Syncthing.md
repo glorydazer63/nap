@@ -7,6 +7,7 @@ latest:
 created: 2026-07-07
 modified: 2026-08-05
 ---
+
 ## What is Syncthing?
 Syncthing has nothing to do with the publishing of a statuc website. It is a tool to copy your source content to other parts of your local network as a backup in case of failure on your principal sourcce.
 
@@ -33,7 +34,7 @@ Note:
 
 The initial screen interface (an example only) looks like this:
 
-![[syncthing-image.webp]]
+![Syncthing](../../assets/syncthing-image.webp)
 
 The Left side shows the synced folders on the current device. This left side view should look similar to all other devices you are synchronising to/from.
 
@@ -50,7 +51,7 @@ Do not worry about Folder Type, Watch For Changes, Pause Folder or File Versioni
 
 2. Click the Tick at the top right of screen to lock it in.
 
-![[syncthing_create_folder.png]]
+![Syncthing 2](../../assets/syncthing_create_folder.png)
 
 ## Installing for iPhone
 Unfortunately I do not use Apple tools so I am unable to provide an install instruction.

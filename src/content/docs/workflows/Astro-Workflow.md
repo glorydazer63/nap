@@ -6,7 +6,7 @@ modified: 2026-08-05
 created: 2026-08-03
 ---
 
-![Astro Logo](/src/assets/astro-logo.webp)
+![Astro Logo](../../assets/astro-logo.webp)
 
 ## Workflow
 1. An Astro workspace needs to be created on Desktop. Run:

@@ -7,13 +7,11 @@ seo: false
 created: 2026-07-07
 modified: 2026-08-05
 ---
-![Hero Image](/src/assets/n-pbanner.png)
+![Hero Image](../../assets/n-pbanner.png)
 
 This is the web presence of **Notes And Pages**, a boutique site built around providing support and assistance to those small businesses which require expertise around small/static website design, content and technical writing.
 
-```
 This site has been built using **Obsidian**, **GitHub**, **Astro/Starlight** and **GitHub Pages**.
-```
 
 N&P is a sole trader one-man band operation based out of **New Zealand** with over 20 years experience working in public and private sector, contracting, plus sole trader freelance work through agencies such as Upwork.
 
