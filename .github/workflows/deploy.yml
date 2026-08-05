@@ -26,7 +26,7 @@ jobs:
         # Optional: Uncomment if your project is in a subdirectory or needs specific Node version
         # with:
         #   path: . 
-        #   node-version: 26
+        #   node-version: 24
         #   package-manager: pnpm@latest
 
   deploy:
