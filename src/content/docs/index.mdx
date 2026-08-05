@@ -1,0 +1,41 @@
+---
+title: Welcome to Notes and Pages
+description: This is the web presence of **Notes And Pages**, a boutique site built around providing support and assistance to those small businesses which require expertise around small/static website design, content and technical writing. This site has been built using **Obsidian**, **GitHub**, **Astro/Starlight** and **Netlify**.
+hero:
+  tagline: We are here to build static websites.
+  image:
+    file: ../../assets/n-pbanner.png
+  actions:
+    - text: Main Page
+      link: home
+    - text: About Us
+      link: about
+      icon: right-arrow
+    - text: Contact Us
+      link: contact
+      icon: external
+      variant: minimal
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## What's New
+
+<CardGrid stagger>
+	<Card title="Adding new CMS Workflows" icon="pencil">
+		Check the `Workflow` folder (left sidebar) to see what we're working on.
+	</Card>
+	<Card title="Change page layout" icon="document">
+		Delete `template: splash` in `src/content/docs/index.mdx` to display a
+		sidebar on this page.
+	</Card>
+	<Card title="Add new content" icon="add-document">
+		Add Markdown or MDX files to `src/content/docs` to create new pages.
+	</Card>
+	<Card title="Configure your site" icon="setting">
+		Edit your `sidebar` and other config in `astro.config.mjs`.
+	</Card>
+	<Card title="Read the docs" icon="open-book">
+		Learn more in [the Starlight Docs](https://starlight.astro.build/).
+	</Card>
+</CardGrid>
