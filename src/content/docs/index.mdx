@@ -7,12 +7,12 @@ hero:
     file: ../../assets/n-pbanner.png
   actions:
     - text: Main Page
-      link: home
+      link: /src/content/docs/maindocs/home
     - text: About Us
-      link: about
+      link: /src/content/docs/maindocs/about
       icon: right-arrow
     - text: Contact Us
-      link: contact
+      link: /src/content/docs/maindocs/contact
       icon: external
       variant: minimal
 ---
@@ -23,17 +23,13 @@ import { Card, CardGrid } from '@astrojs/starlight/components';
 
 <CardGrid stagger>
 	<Card title="Adding new CMS Workflows" icon="pencil">
-		Check the `Workflow` folder (left sidebar) to see what we're working on.
+		Check the `Workflows` folder (left sidebar) to see what we're working on.
 	</Card>
-	<Card title="Change page layout" icon="document">
-		Delete `template: splash` in `src/content/docs/index.mdx` to display a
-		sidebar on this page.
+	<Card title="Some of our Example Sites" icon="document">
+		Check the `Examples` page (left sidebar) to view these.
 	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
-	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
+	<Card title="See what tools we use" icon="setting">
+		Check the `Design-Tools` page (left sidebar) to see how these static websites are put together.
 	</Card>
 	<Card title="Read the docs" icon="open-book">
 		Learn more in [the Starlight Docs](https://starlight.astro.build/).
