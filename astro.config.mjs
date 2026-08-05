@@ -23,7 +23,7 @@ export default defineConfig({
 					items: [{ autogenerate: { directory: 'maindocs' } }],
 				},
 				{
-					label: 'Workflow',
+					label: 'Workflows',
 					items: [{ autogenerate: { directory: 'workflows' } }],
 				},
 			{
