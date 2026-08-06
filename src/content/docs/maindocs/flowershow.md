@@ -3,9 +3,10 @@ author: GeorgeT
 title: Flowershow
 description: Flowershow Portal
 seo: false
-latest:
+tags:
+  - flowershow
 created: 2026-07-07
-modified: 2026-08-05
+modified: 2026-08-06
 ---
 ## All about Flowershow
 Researching static website tools back in 2025, I discovered this boutique web portal application that integrates to a Obsidian-Flowershow-Vercel model.

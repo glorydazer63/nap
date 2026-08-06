@@ -16,22 +16,24 @@ hero:
       icon: external
       variant: minimal
 ---
-
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Icon, LinkCard, Card, CardGrid } from '@astrojs/starlight/components';
 
 ## What's New
 
-<CardGrid stagger>
-	<Card title="Adding new CMS Workflows" icon="pencil">
-		Check the `Workflows` folder (left sidebar) to see what we're working on.
-	</Card>
+<LinkCard
+  title="Adding new CMS Workflows"
+  href="/workflows/cms-workflows-overview"
+  description="See the latest SSG workflows we're working on."
+/>
+
+<CardGrid>
 	<Card title="Some of our Example Sites" icon="document">
-		Check the `Examples` page (left sidebar) to view these.
+    Check the [Examples](/docs/maindocs/examples/) page to view these.
 	</Card>
 	<Card title="See what tools we use" icon="setting">
-		Check the `Design-Tools` page (left sidebar) to see how these static websites are put together.
+    Check the [Design-Tools](/docs/maindocs/design-tools/) page to see how these static websites are put together.
 	</Card>
 	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
+    Learn more in [the Starlight Docs](https://starlight.astro.build/).
 	</Card>
-</CardGrid>
+  </CardGrid>

@@ -3,9 +3,10 @@ author: GeorgeT
 title: Syncthing
 description: Setting up Syncthing
 seo: false
-latest:
+tags:
+  - syncthing
 created: 2026-07-07
-modified: 2026-08-05
+modified: 2026-08-06
 ---
 
 ## What is Syncthing?

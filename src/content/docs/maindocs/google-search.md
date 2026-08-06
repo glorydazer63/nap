@@ -3,9 +3,11 @@ author: GeorgeT
 title: Google-Search
 description: Google Search
 seo: false
-latest:
+tags:
+  - google
+  - search
 created: 2026-07-07
-modified: 2026-08-02
+modified: 2026-08-06
 ---
 All of my static websites will include a Google Search option for users.
 

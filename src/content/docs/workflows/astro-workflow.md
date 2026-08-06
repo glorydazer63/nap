@@ -2,7 +2,12 @@
 author: GeorgeT
 title: Astro-Workflow
 description: How to build a local machine environmewnt for an Astro project using npm
-modified: 2026-08-05
+seo: false
+tags:
+  - astro
+  - workflow
+  - netlify
+modified: 2026-08-06
 created: 2026-08-03
 ---
 

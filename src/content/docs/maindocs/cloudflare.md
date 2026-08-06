@@ -3,9 +3,10 @@ author: GeorgeT
 title: Cloudflare
 description: Optional, Setting up Cloudflare
 seo: false
-latest:
+tags:
+  - cloudflare
 created: 2026-07-07
-modified: 2026-08-05
+modified: 2026-08-06
 ---
 
 ## Introduction
