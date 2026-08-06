@@ -9,3 +9,4 @@ modified: 2026-08-02
 ---
 
 Email: georget@posteo.com
+GitHub: https://github.com/glorydazer63
