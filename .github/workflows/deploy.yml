@@ -11,9 +11,7 @@ permissions:
   id-token: write
 
 jobs:
-  deploy:
-    runs-on: ubuntu-latest
-    steps:
+   steps:
       - uses: actions/checkout@v4  # Update from v3 or older
       - uses: actions/setup-node@v4 # Update from v3 or older
       # Update any other actions (e.g., actions/upload-artifact@v4.6.2)
