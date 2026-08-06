@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 
 export default defineConfig({
   site: 'https://glorydazer63.github.io/nap',
-  base: 'nap',
+base: '/nap',
   output: 'static',
   integrations: [
 	  starlight({
