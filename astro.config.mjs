@@ -3,7 +3,7 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 export default defineConfig({
-  site: 'https://glorydazer63.github.io/nap',
+  site: 'https://glorydazer63.github.io',
   base: '/nap',
   output: 'static',
   integrations: [
