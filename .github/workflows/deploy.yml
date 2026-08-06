@@ -11,16 +11,13 @@ permissions:
   id-token: write
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      
-      - name: Install, build, and upload your site
-        uses: withastro/action@v6
-        # with:
-        #   path: ./docs # Use this if your Starlight site is in a subfolder like docs/
+      - uses: actions/checkout@v4  # Update from v3 or older
+      - uses: actions/setup-node@v4 # Update from v3 or older
+      # Update any other actions (e.g., actions/upload-artifact@v4.6.2)
+      # to their latest stable versions   
 
   deploy:
     needs: build
