@@ -10,10 +10,6 @@ permissions:
   pages: write
   id-token: write
 
-runs:
-  using: 'node24'
-  main: 'main.js'
-
 jobs:
   build:
     runs-on: ubuntu-latest
