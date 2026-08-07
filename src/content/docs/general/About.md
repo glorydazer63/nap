@@ -1,13 +1,12 @@
 ---
 author: GeorgeT
-title: about
+title: About
 description: About
-seo: false
 tags:
   - astro
   - about
 created: 2026-07-07
-modified: 2026-08-06
+modified: 2026-08-08
 ---
 
 ## Bio

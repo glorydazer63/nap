@@ -1,11 +1,10 @@
 ---
 author: GeorgeT
 home: true
-title: home
+title: Home
 description: Notes And Pages - Static Website Design
-seo: false
 created: 2026-07-07
-modified: 2026-08-05
+modified: 2026-08-08
 ---
 ![Hero Image](https://i.postimg.cc/sx9y0D2P/n-pbanner.png)
 

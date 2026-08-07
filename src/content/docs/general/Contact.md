@@ -1,12 +1,10 @@
 ---
 author: GeorgeT
-title: contact
+title: Contact
 description: Contact
-seo: false
-latest:
 created: 2026-07-07
-modified: 2026-08-02
+modified: 2026-08-08
 ---
 
-Email: georget@posteo.com
+Email: georget@posteo.com\
 GitHub: https://github.com/glorydazer63

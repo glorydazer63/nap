@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/docs/workflows/Astro-Workflow.md",
+                "file": "src/content/docs/general/Home.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Astro-Workflow"
+              "title": "Home"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "src/content/docs/maindocs/Elements.md",
+            "file": "src/content/docs/general/Home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -176,13 +176,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "src/content/docs/general/Contact.md",
+    "src/content/docs/general/About.md",
+    "src/content/docs/general/Home.md",
+    "src/content/docs/workflows/retype-workflow.md",
     "src/content/docs/maindocs/Implementation.md",
     "src/content/docs/maindocs/Google-Search.md",
     "src/content/docs/maindocs/Flowershow.md",
     "src/content/docs/maindocs/Cloudflare.md",
     "src/content/docs/local-env/Syncthing.md",
-    "src/content/docs/general/About.md",
-    "src/content/docs/general/Home.md",
     "src/content/docs/maindocs/Elements.md",
     "src/content/docs/workflows/Astro-Workflow.md",
     "src/content/docs/maindocs/Design-Tools.md"
