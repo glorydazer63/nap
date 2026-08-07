@@ -1,5 +1,6 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
+import starlight from '@astrojs/starlight';
 import linkCard from 'astro-link-card'; // or remarkLinkCard from 'remark-link-card-plus';
 
 export default defineConfig({
