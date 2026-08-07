@@ -8,6 +8,9 @@ base: '/nap',
 output: 'static',
   integrations: [
 	  starlight({
+		  components: {
+			Footer: './src/components/CustomFooter.astro',
+					  }
 			title: 'Notes and Pages',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
