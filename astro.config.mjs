@@ -1,37 +1,37 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
-import starlight from '@astrojs/starlight';
+import linkCard from 'astro-link-card'; // or remarkLinkCard from 'remark-link-card-plus';
 
 export default defineConfig({
- site: 'https://glorydazer63.github.io/nap',
+site: 'https://glorydazer63.github.io/nap',
 base: '/nap',
 output: 'static',
+
+ // Allow external images to be downloaded during build (GDPR compliant)
+ image: {
+    remotePatterns: [
+      { protocol: 'https' }
+    ]
+ },
   integrations: [
-	  starlight({
-			title: 'Notes and Pages',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
-			sidebar: [
-				{
-					label: 'General',
-					items: [{ autogenerate: { directory: 'general' } }],
-				},
-				{
-					label: 'Docs',
-					items: [{ autogenerate: { directory: 'docs' } }],
-				},
-				{
-					label: 'Workflow',
-					items: [{ autogenerate: { directory: 'workflows' } }],
-				},
-				{
-					label: 'Local Environment',
-					items: [{ autogenerate: { directory: 'local-env' } }],
-				},
-				{
-					label: 'Glossary',
-					items: [{ autogenerate: { directory: 'glossary' } }],
-				},
-			],
-		}),
-	],
-});
+    linkCard({
+      // Options for astro-link-card
+      serverCache: true,
+      serverCachePath: './public',
+      buildCache: true,
+    })
+  ],
+  markdown: {
+    remarkPlugins: [
+      // If using remark-link-card-plus instead
+      [
+        'remark-link-card-plus',
+        {
+          cache: true,
+          shortenUrl: true,
+          thumbnailPosition: "right"
+        }
+      ]
+    ]
+  }
+});   
