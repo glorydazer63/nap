@@ -20,7 +20,7 @@ output: 'static',
 				},
 				{
 					label: 'Docs',
-					items: [{ autogenerate: { directory: 'docs' } }],
+					items: [{ autogenerate: { directory: 'maindocs' } }],
 				},
 				{
 					label: 'Workflow',

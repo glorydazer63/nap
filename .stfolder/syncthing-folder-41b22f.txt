@@ -1,5 +1,5 @@
 # This directory is a Syncthing folder marker.
 # Do not delete.
 
-folderID: goxsg-79pg6
-created: 2026-08-05T09:27:56+12:00
+folderID: hh4c2-kq53n
+created: 2026-08-09T07:04:46+12:00
