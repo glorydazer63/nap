@@ -23,4 +23,7 @@ A Commenting system be integrated with GitHub's **Discussion** platform. This is
 ## Theme Switcher
 All SSG sites that I build (Flowershow, Retype and Astro) automatically contain a dark/light theme switcher. The Switcher Icon can be found on the top menu bar (right side).
 
-Note: if viewing an Astro published website on mobile, the Theme Switcher is located in the hamburger menu at the bottom. 
+Note: if viewing an Astro published website on mobile, the Theme Switcher is located in the hamburger menu at the bottom.
+
+## Cards and Linked Cards
+These are 

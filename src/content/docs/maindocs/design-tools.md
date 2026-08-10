@@ -42,4 +42,4 @@ I have an account set up in Vercel to handle any publishing requests going throu
 ## Syncthing
 If you have multiple devices and/or use different operating systems across network (Windows, Mac, Android, iPhone, Linux, RaspberryPi etc), you can use a free app called **Syncthing** to replicate your data among them. This is to mitigate data loss on a single device which could be a single point of failure. Another suggestion is to copy your web page data onto a Server for safe keeping, or onto a portable USB thumb drive.
 
-Syncthing points to your source folder on your source device. On another target device where you have Syncthing installed, run it, the folders from your source device will be detected, now just add them to sync up. Refer our [Syncthing](../../loc-env/syncthing) page.
+Syncthing points to your source folder on your source device. On another target device where you have Syncthing installed, run it, the folders from your source device will be detected, now just add them to sync up. Refer our [Syncthing](../../local-env/syncthing) page.
