@@ -25,13 +25,13 @@ This is done in three steps:
 - authenticate the created SSH key, also by git command. 
 - add the SSH key phrase, into the `Repo > Settings > Deploy` section.
 
-Refer to the [SSH Keys](/src/contebt/docs/maindocs/ssh-keys) page for more. 
+Refer to the [[ssh-keys]] page for more. 
 
 ## Retype
-Retype is a SSG is run on the local machine to generate content which is uploaded to a GitHub repo. Relatively straight forward to execute. Refer [Retype Workflow](/src/content/docs/workflows/Retype-Workflow)
+Retype is a SSG is run on the local machine to generate content which is uploaded to a GitHub repo. Relatively straight forward to execute. Refer [[retype-workflow]]
 
 ## Astro
-Astro is another SSG run on the local machine, which can generate output to several template styles upon project creation (via the command line). Despite some nice looking published files, setting up the environment can be daunting at first, but with familiarity and understanding its quirks (Node JS compatibility especially), this has a lot of flexibility in the design phase. Perhaps too much flexibility. Refer [Astro Workflow](/src/content/docs/workflows/Astro-Workflow)
+Astro is another SSG run on the local machine, which can generate output to several template styles upon project creation (via the command line). Despite some nice looking published files, setting up the environment can be daunting at first, but with familiarity and understanding its quirks (Node JS compatibility especially), this has a lot of flexibility in the design phase. Perhaps too much flexibility. Refer [[astro-workflow]]]
 
 ## Netlify
 In future, I plan to push client sites through to Netlify using an Astro project engine. Astro itself is quite a complex framework, so I will test a few Astro builds in GitHub Pages first before venturing out to Netlify, and also eventually Vercel.
@@ -42,4 +42,4 @@ I have an account set up in Vercel to handle any publishing requests going throu
 ## Syncthing
 If you have multiple devices and/or use different operating systems across network (Windows, Mac, Android, iPhone, Linux, RaspberryPi etc), you can use a free app called **Syncthing** to replicate your data among them. This is to mitigate data loss on a single device which could be a single point of failure. Another suggestion is to copy your web page data onto a Server for safe keeping, or onto a portable USB thumb drive.
 
-Syncthing points to your source folder on your source device. On another target device where you have Syncthing installed, run it, the folders from your source device will be detected, now just add them to sync up. Refer our [Syncthing](/src/content/docs/local-env/Syncthing) page.
+Syncthing points to your source folder on your source device. On another target device where you have Syncthing installed, run it, the folders from your source device will be detected, now just add them to sync up. Refer our [[Syncthing]] page.
