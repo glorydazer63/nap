@@ -1,23 +1,15 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-import { starlightTagsPlugin } from 'starlight-tags';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://example.com', // Mandatory for sitemap generation
-  integrations: 
-
-
-
-export default defineConfig({
- site: 'https://glorydazer63.github.io/nap',
+site: 'https://glorydazer63.github.io/nap',
 base: '/nap',
 output: 'static',
-  integrations: [sitemap()],
-                });   
-                [starlight({
-		  components: {
+integrations: [sitemap()],
+			[starlight({
+			components: {
 			Footer: './src/components/CustomFooter.astro',
 			},
 			title: 'Notes and Pages',
