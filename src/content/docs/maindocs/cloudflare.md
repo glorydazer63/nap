@@ -23,7 +23,7 @@ Cloudflare has a tool that either allows or disallows access to Search bots plus
 
 Displays are also available to see where website visitors are coming from.
 
-I won't go into too much detail as to what is required because it is a bit technical, but if clients are interested, then they contact me on the [[Contact]] page.
+I won't go into too much detail as to what is required because it is a bit technical, but if clients are interested, then they contact me on the [Contact](../src/contents/doc/general/about) page.
 
 ### SEO Consideration
 Cloudflare uses agents to ensure content passed through it will be picked up for SEO. Selected Search/Index bots are switched on (Google, Bing, Apple etc) enabling all latest files generated in the websites sitemap are made available to the approved search bots.
