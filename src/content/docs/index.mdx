@@ -1,0 +1,37 @@
+---
+title: Welcome to Notes and Pages
+description: This is the web presence of **Notes And Pages**, a boutique site built around providing support and assistance to those small businesses which require expertise around small/static website design, content and technical writing. This site has been built using **Obsidian**, **Astro/Starlight**, **GitHub Repo and Pages**
+hero:
+  tagline: We are here to build static websites.
+  image:
+    file: ../../assets/n-pbanner.png
+  actions:
+    - text: Main Page
+      link: general/home
+    - text: About Us
+      link: general/about
+      icon: right-arrow
+    - text: Contact Us
+      link: general/contact
+      icon: external
+      variant: minimal
+---
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## What's New
+
+<CardGrid>
+	<Card title="Adding new CMS Workflows" icon="document">
+    Check the `CMS Workflows` page to view these.
+	</Card>
+
+	<Card title="Some of our Example Sites" icon="document">
+    Check the `/Docs/Examples` page to view these.
+	</Card>
+	<Card title="See what tools we use" icon="setting">
+    Check the `Design-Tools` page to see how these static websites are put together.
+	</Card>
+	<Card title="Read the docs" icon="open-book">
+    Learn more in [the Starlight Docs](https://starlight.astro.build/).
+	</Card>
+  </CardGrid>

@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/content/docs/workflows/flowershow-workflow.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "flowershow-workflow"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d73381dabd6d723",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e39be7b16695e05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4d1457e1c12c7ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4b52ba9a2b951a9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "313b8d48664c8667",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "075d960d95a1cd08",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d601e9982b72080",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97ab6d8608d4925e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/content/docs/maindocs/Design-Tools.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5019543ab4b0c9b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/content/docs/general/Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7a0512b7df7833f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4a32e49a6a54e01a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ef871189cd75d3fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/content/docs/workflows/flowershow-workflow.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "node_modules/@pagefind/linux-x64/bin/pagefind-v1.5.2-x86_64-unknown-linux-musl.tar.gz.sha256",
+    "node_modules/@pagefind/linux-x64/bin/pagefind_extended-v1.5.2-x86_64-unknown-linux-musl.tar.gz.sha256",
+    "node_modules/@pagefind/linux-x64/README.md",
+    "node_modules/@pagefind/linux-x64/package.json",
+    "node_modules/astro/LICENSE",
+    "node_modules/astro/dist/zod.d.ts",
+    "node_modules/astro/dist/core/errors/zod-error-map.d.ts",
+    "node_modules/astro/dist/content/watcher.d.ts",
+    "node_modules/astro/dist/core/wait-until.d.ts",
+    "node_modules/astro/dist/core/viteUtils.d.ts",
+    "node_modules/astro/dist/vite-plugin-astro-server/vite.d.ts",
+    "node_modules/astro/dist/core/module-loader/vite.d.ts",
+    "node_modules/@img/sharp-libvips-linuxmusl-x64/README.md",
+    "node_modules/@img/sharp-libvips-linux-x64/README.md",
+    "node_modules/astro/README.md",
+    "node_modules/prismjs/README.md",
+    "node_modules/prismjs/CHANGELOG.md",
+    "node_modules/@esbuild/linux-x64/README.md",
+    "node_modules/web-streams-polyfill/README.md",
+    "node_modules/dayjs/README.md",
+    "node_modules/zod/README.md",
+    "node_modules/dayjs/CHANGELOG.md",
+    "node_modules/css-tree/README.md",
+    "node_modules/csso/node_modules/css-tree/README.md",
+    "node_modules/undici/types/README.md",
+    "node_modules/undici/README.md",
+    "node_modules/undici/docs/docs/best-practices/writing-tests.md",
+    "node_modules/undici/docs/docs/best-practices/undici-vs-builtin-fetch.md",
+    "node_modules/undici/docs/docs/best-practices/proxy.md",
+    "node_modules/undici/docs/docs/best-practices/mocking-request.md",
+    "node_modules/undici/docs/docs/best-practices/crawling.md",
+    "node_modules/undici/docs/docs/best-practices/client-certificate.md",
+    "node_modules/undici/docs/docs/api/api-lifecycle.md",
+    "node_modules/undici/docs/docs/api/WebSocket.md",
+    "node_modules/undici/docs/docs/api/Util.md",
+    "node_modules/undici/docs/docs/api/Socks5ProxyAgent.md",
+    "node_modules/launder/logos/logo-box-madefor.png",
+    "src/assets/retype_build-deploy.png"
+  ]
+}

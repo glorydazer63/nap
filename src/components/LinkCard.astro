@@ -1,0 +1,31 @@
+---
+// components/LinkCard.astro
+const { src, url, title, description } = Astro.props;
+---
+<a href={url} target="_blank" rel="noopener noreferrer" class="link-card">
+  <img src={src} alt={title} class="link-card-image" />
+  <div class="link-card-content">
+    <h3>{title}</h3>
+    <p>{description}</p>
+  </div>
+</a>
+
+<style>
+  .link-card {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+  }
+  .link-card-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+  .link-card-content {
+    padding: 1rem;
+  }
+</style>   
