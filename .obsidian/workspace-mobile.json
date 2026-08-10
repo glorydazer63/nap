@@ -13,12 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "src/content/docs/maindocs/sitemap-generation.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "sitemap-generation"
+=======
+                "file": "src/content/docs/general/Home.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+>>>>>>> origin/main
             }
           }
         ]
@@ -176,6 +185,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "src/content/docs/maindocs/google-search.md",
     "src/content/docs/maindocs/robots-txt.md",
     "src/content/docs/maindocs/implementation.md",
@@ -185,6 +195,9 @@
     "src/content/docs/maindocs/google-lighthouse.md",
     "src/assets/lighthouse_nap.png",
     "src/content/docs/maindocs/cloudflare.md",
+=======
+    "src/content/docs/general/Home.md",
+>>>>>>> origin/main
     "src/content/docs/general/Contact.md",
     "src/content/docs/general/About.md",
     "src/content/docs/workflows/retype-workflow.md",

@@ -191,6 +191,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "CLAUDE.md~HEAD",
     "node_modules/@pagefind/linux-x64/bin/pagefind-v1.5.2-x86_64-unknown-linux-musl.tar.gz.sha256",
     "node_modules/@pagefind/linux-x64/bin/pagefind_extended-v1.5.2-x86_64-unknown-linux-musl.tar.gz.sha256",
     "node_modules/@pagefind/linux-x64/README.md",
@@ -202,7 +203,6 @@
     "node_modules/astro/dist/core/wait-until.d.ts",
     "node_modules/astro/dist/core/viteUtils.d.ts",
     "node_modules/astro/dist/vite-plugin-astro-server/vite.d.ts",
-    "node_modules/astro/dist/core/module-loader/vite.d.ts",
     "node_modules/@img/sharp-libvips-linuxmusl-x64/README.md",
     "node_modules/@img/sharp-libvips-linux-x64/README.md",
     "node_modules/astro/README.md",

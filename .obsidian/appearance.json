@@ -3,5 +3,9 @@
   "baseFontSize": 21,
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
+<<<<<<< HEAD
   "theme": "moonstone"
+=======
+  "theme": "obsidian"
+>>>>>>> origin/main
 }

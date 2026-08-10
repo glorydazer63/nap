@@ -2,9 +2,14 @@
 author: georget
 title: Flowershow-Workflow
 description: How to build a Flowershow project
+<<<<<<< HEAD
 tags: Workflows
 created: 2026-07-23
 modified: 2026-08-10
+=======
+created: 2026-07-23
+modified: 2026-08-05
+>>>>>>> origin/main
 ---
 
 ![Flowershow Logo](https://i.postimg.cc/VvcmRbzW/flowershow.webp)

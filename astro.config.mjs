@@ -1,7 +1,10 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+<<<<<<< HEAD
 import { starlightTagsPlugin } from 'starlight-tags';
+=======
+>>>>>>> origin/main
 
 export default defineConfig({
  site: 'https://glorydazer63.github.io/nap',
@@ -11,9 +14,13 @@ output: 'static',
 	  starlight({
 		  components: {
 			Footer: './src/components/CustomFooter.astro',
+<<<<<<< HEAD
 			},
 			plugins: [starlightTagsPlugin()],
 			},
+=======
+					  },
+>>>>>>> origin/main
 			title: 'Notes and Pages',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
