@@ -39,5 +39,4 @@ integrations:
                     items: [{ autogenerate: { directory: 'glossary' } }],
                 },
             ],
-        }), sitemap()],
 });
