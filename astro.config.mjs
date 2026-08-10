@@ -1,16 +1,12 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
 site: 'https://glorydazer63.github.io/nap',
 base: '/nap',
 output: 'static',
 integrations:
-            sitemap({
-            // configuration options
-            }),
             [starlight({
             components: {
             Footer: './src/components/CustomFooter.astro',
