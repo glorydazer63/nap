@@ -25,7 +25,7 @@ git config core.sshCommand "ssh -i ~/.ssh/ed25519 -o IdentitiesOnly=yes"
 - The `-f` reference is where the key file resides on your local machine.
 
 ### SSH Key Authentication
-These two commands links the SSH Key to the Sh Agent.
+These two commands links the SSH Key to the SSH Agent.
 
 ```
 eval "$(ssh-agent -s)"
