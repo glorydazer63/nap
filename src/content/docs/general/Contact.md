@@ -4,7 +4,6 @@ title: Contact
 description: Contact
 tags:
   - contact
->>>>>>> origin/main
 created: 2026-07-07
 modified: 2026-08-08
 ---
