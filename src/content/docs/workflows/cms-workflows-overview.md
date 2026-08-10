@@ -2,6 +2,8 @@
 author: georget
 title: CMS-Workflows-Overview
 description: CMS Workflows Overview
+tags:
+  - workflows
 created: 2026-07-23
 modified: 2026-08-05
 ---

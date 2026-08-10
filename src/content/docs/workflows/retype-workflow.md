@@ -2,12 +2,9 @@
 author: GeorgeT
 title: Retype-Workflow
 description: How to build a local machine environmewnt for a Retype project using npm
-<<<<<<< HEAD
-tags: Workflows
+tags:
+  - Workflows
 modified: 2026-08-10
-=======
-modified: 2026-08-07
->>>>>>> origin/main
 created: 2026-08-03
 ---
 
@@ -20,7 +17,6 @@ From the Web:
 "Retype is a Markdown-first documentation website builder that converts Markdown .md files into a beautiful, production-ready static website without requiring coding or design work.  It is a command-line tool installed via npm, yarn, or dotnet CLI (e.g., npm install retypeapp --global), which allows users to write content in plain text and automatically generates HTML output."
 
 ### Local Machine
-<<<<<<< HEAD
 Ensure you have all pre requisite build components installed. Obviously, Git, npm, SSH and retype are the key ones (if not already installed previously).
 
 To bring up the Staging build within your local machine, follow these steps:
@@ -72,14 +68,8 @@ When configuring a Retype project, you'll need to point to the Retype Branch, wi
 Once locked in, Save it.
 
 If all this works as intended, your GitHub Page should display online.
-=======
-
-
-### GitHub
 
 ### Once Published
 - Looks good. 
 - On Mobile, it seems the NavBar details are not displayed.
 - Footer displayed correctly
-- 
->>>>>>> origin/main

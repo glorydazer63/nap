@@ -57,7 +57,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin git@github.com:glorydazer63/,your new project name.git
+git remote add origin git@github.com:glorydazer63/<your new project name>.git
 git push -u origin main
 ```
 
@@ -76,7 +76,7 @@ The content should now reside with the Repo
 2. Create a Build project. 
 3. Set Deploy Build steps
 4. Astro build, or npm run build
-5. Set Pub dir = didt
+5. Set Pub dir = dist
 6. Check Deploy run. 
 7. Check published Site
 

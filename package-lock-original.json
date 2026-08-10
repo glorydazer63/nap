@@ -1382,11 +1382,12 @@
       "cpu": [
         "arm64"
       ],
-
+<<<<<<< HEAD
+=======
       "libc": [
         "musl"
       ],
-
+>>>>>>> origin/main
       "license": "LGPL-3.0-or-later",
       "optional": true,
       "os": [
@@ -1403,11 +1404,12 @@
       "cpu": [
         "x64"
       ],
-
+<<<<<<< HEAD
+=======
       "libc": [
         "musl"
       ],
-
+>>>>>>> origin/main
       "license": "LGPL-3.0-or-later",
       "optional": true,
       "os": [
@@ -1424,11 +1426,12 @@
       "cpu": [
         "arm"
       ],
-
+<<<<<<< HEAD
+=======
       "libc": [
         "glibc"
       ],
-
+>>>>>>> origin/main
       "license": "Apache-2.0",
       "optional": true,
       "os": [
@@ -1451,11 +1454,12 @@
       "cpu": [
         "arm64"
       ],
-
+<<<<<<< HEAD
+=======
       "libc": [
         "glibc"
       ],
-
+>>>>>>> origin/main
       "license": "Apache-2.0",
       "optional": true,
       "os": [
@@ -1478,11 +1482,12 @@
       "cpu": [
         "ppc64"
       ],
-
+<<<<<<< HEAD
+=======
       "libc": [
         "glibc"
       ],
-
+>>>>>>> origin/main
       "license": "Apache-2.0",
       "optional": true,
       "os": [
@@ -1505,11 +1510,12 @@
       "cpu": [
         "riscv64"
       ],
-
+<<<<<<< HEAD
+=======
       "libc": [
         "glibc"
       ],
-
+>>>>>>> origin/main
       "license": "Apache-2.0",
       "optional": true,
       "os": [
@@ -1532,11 +1538,12 @@
       "cpu": [
         "s390x"
       ],
-
+<<<<<<< HEAD
+=======
       "libc": [
         "glibc"
       ],
-
+>>>>>>> origin/main
       "license": "Apache-2.0",
       "optional": true,
       "os": [
@@ -1559,11 +1566,12 @@
       "cpu": [
         "x64"
       ],
-
+<<<<<<< HEAD
+=======
       "libc": [
         "glibc"
       ],
-
+>>>>>>> origin/main
       "license": "Apache-2.0",
       "optional": true,
       "os": [
@@ -1586,11 +1594,12 @@
       "cpu": [
         "arm64"
       ],
-
+<<<<<<< HEAD
+=======
       "libc": [
         "musl"
       ],
-
+>>>>>>> origin/main
       "license": "Apache-2.0",
       "optional": true,
       "os": [
@@ -1613,11 +1622,12 @@
       "cpu": [
         "x64"
       ],
-
+<<<<<<< HEAD
+=======
       "libc": [
         "musl"
       ],
-
+>>>>>>> origin/main
       "license": "Apache-2.0",
       "optional": true,
       "os": [
@@ -1988,11 +1998,12 @@
       "cpu": [
         "arm64"
       ],
-
+<<<<<<< HEAD
+=======
       "libc": [
         "glibc"
       ],
-
+>>>>>>> origin/main
       "license": "MIT",
       "optional": true,
       "os": [
@@ -2009,11 +2020,12 @@
       "cpu": [
         "arm64"
       ],
-
+<<<<<<< HEAD
+=======
       "libc": [
         "musl"
       ],
-
+>>>>>>> origin/main
       "license": "MIT",
       "optional": true,
       "os": [
@@ -2030,11 +2042,12 @@
       "cpu": [
         "ppc64"
       ],
-
+<<<<<<< HEAD
+=======
       "libc": [
         "glibc"
       ],
-
+>>>>>>> origin/main
       "license": "MIT",
       "optional": true,
       "os": [
@@ -2051,11 +2064,12 @@
       "cpu": [
         "s390x"
       ],
-
+<<<<<<< HEAD
+=======
       "libc": [
         "glibc"
       ],
-
+>>>>>>> origin/main
       "license": "MIT",
       "optional": true,
       "os": [
@@ -2072,11 +2086,12 @@
       "cpu": [
         "x64"
       ],
-
+<<<<<<< HEAD
+=======
       "libc": [
         "glibc"
       ],
-
+>>>>>>> origin/main
       "license": "MIT",
       "optional": true,
       "os": [
@@ -2093,11 +2108,12 @@
       "cpu": [
         "x64"
       ],
-
+<<<<<<< HEAD
+=======
       "libc": [
         "musl"
       ],
-
+>>>>>>> origin/main
       "license": "MIT",
       "optional": true,
       "os": [
@@ -4398,11 +4414,12 @@
       "cpu": [
         "arm64"
       ],
-
+<<<<<<< HEAD
+=======
       "libc": [
         "glibc"
       ],
-
+>>>>>>> origin/main
       "license": "MPL-2.0",
       "optional": true,
       "os": [
@@ -4423,11 +4440,12 @@
       "cpu": [
         "arm64"
       ],
-
+<<<<<<< HEAD
+=======
       "libc": [
         "musl"
       ],
-
+>>>>>>> origin/main
       "license": "MPL-2.0",
       "optional": true,
       "os": [
@@ -4448,11 +4466,12 @@
       "cpu": [
         "x64"
       ],
-
+<<<<<<< HEAD
+=======
       "libc": [
         "glibc"
       ],
-
+>>>>>>> origin/main
       "license": "MPL-2.0",
       "optional": true,
       "os": [
@@ -4473,11 +4492,12 @@
       "cpu": [
         "x64"
       ],
-
+<<<<<<< HEAD
+=======
       "libc": [
         "musl"
       ],
-
+>>>>>>> origin/main
       "license": "MPL-2.0",
       "optional": true,
       "os": [
@@ -6900,7 +6920,7 @@
       }
     },
 =======
-
+>>>>>>> origin/main
     "node_modules/stream-replace-string": {
       "version": "2.0.0",
       "resolved": "https://registry.npmjs.org/stream-replace-string/-/stream-replace-string-2.0.0.tgz",
