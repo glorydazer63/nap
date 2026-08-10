@@ -13,21 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "src/content/docs/maindocs/sitemap-generation.md",
+                "file": "src/content/docs/maindocs/examples.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "sitemap-generation"
-=======
-                "file": "src/content/docs/general/Home.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Home"
->>>>>>> origin/main
+              "title": "examples"
             }
           }
         ]
@@ -36,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ea5c2eb77c664884",
+    "id": "a7a21066524b4f57",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "53e851c57dfd37f1",
+        "id": "bc91b8a0d2934bc8",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -55,7 +46,7 @@
         }
       },
       {
-        "id": "fcb75e496eb3deb8",
+        "id": "1781a4f79701cf38",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -72,7 +63,7 @@
         }
       },
       {
-        "id": "852e90a668f5922e",
+        "id": "20de7381e55d9cef",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -87,7 +78,7 @@
         }
       },
       {
-        "id": "fad14f44d72d332d",
+        "id": "81343bfe0e9fb118",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -101,7 +92,7 @@
         }
       },
       {
-        "id": "86137c90e24d0bef",
+        "id": "fabb2908c90324aa",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -117,16 +108,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "e8ba9a5572026004",
+    "id": "282d2301bd6752ee",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "a3c4d7b5aefb2984",
+        "id": "787c115776fc239f",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "src/content/docs/general/Home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -140,12 +130,11 @@
         }
       },
       {
-        "id": "9f8fd4b7ca6a5b50",
+        "id": "01c31811723f43d0",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "src/content/docs/maindocs/Elements.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -154,12 +143,11 @@
         }
       },
       {
-        "id": "0d36995879d10d57",
+        "id": "bd4490aff37e5439",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "src/content/docs/maindocs/Elements.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -185,29 +173,20 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "src/content/docs/maindocs/google-search.md",
-    "src/content/docs/maindocs/robots-txt.md",
-    "src/content/docs/maindocs/implementation.md",
-    "src/content/docs/maindocs/sitemap-generation.md",
-    "robots.txt",
+    "src/content/docs/workflows/astro-workflow.md",
+    "src/content/docs/maindocs/examples.md",
     "src/content/docs/general/Home.md",
-    "src/content/docs/maindocs/google-lighthouse.md",
-    "src/assets/lighthouse_nap.png",
-    "src/content/docs/maindocs/cloudflare.md",
-=======
-    "src/content/docs/general/Home.md",
->>>>>>> origin/main
-    "src/content/docs/general/Contact.md",
-    "src/content/docs/general/About.md",
+    "src/content/docs/maindocs/ssh-keys.md",
+    "src/content/docs/maindocs/design-tools.md",
     "src/content/docs/workflows/retype-workflow.md",
-    "src/content/docs/maindocs/Implementation.md",
-    "src/content/docs/maindocs/Google-Search.md",
-    "src/content/docs/maindocs/Flowershow.md",
-    "src/content/docs/maindocs/Cloudflare.md",
+    "src/content/docs/maindocs/cloudflare.md",
+    "src/content/docs/maindocs/customised-domains.md",
     "src/content/docs/local-env/Syncthing.md",
-    "src/content/docs/maindocs/Elements.md",
-    "src/content/docs/workflows/Astro-Workflow.md",
-    "src/content/docs/maindocs/Design-Tools.md"
+    "src/content/docs/general/About.md",
+    "src/content/docs/general/Contact.md",
+    "src/content/docs/contact.md",
+    "src/content/docs/maindocs/sitemap-generation.md",
+    "src/content/docs/maindocs/robots-txt.md",
+    "src/content/docs/maindocs/google-search.md"
   ]
 }

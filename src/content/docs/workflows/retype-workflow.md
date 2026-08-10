@@ -31,6 +31,26 @@ retype start
 - If it detects an error, then the project needs investigation as to the cause. The resulting error screen should provide a log entry to assist with resolving it.
 - Rerun the command until the site project displays correctly.
 
+#### Sitemap Setup
+To ensure that your Retype project has a guaranteed sitemap, run this command. 
+
+```
+npm install sitemap-generator
+```
+
+Once your project has been pushed to GitHub Pages, check the resulting published output, by tacking on `sitemap.xml` to the URL. Hopefully all of the XML pages are displayed.
+
+#### Tags
+Tags are added onto each page as frontmatter items:
+
+```
+tags:
+  - item1
+  - item2
+```
+
+Retype has the ability to display a **Tag Cloud** at the bottom of the left sidebar. However, it is a paid option, only available if you sign up to Retype's premium plan.
+
 ### GitHub
 Retype requires a deploy script to be enabled in GitHub actions. Include this into a file called `retype-action.yml`, to be stored in the  `github/workflows` folder:
 
@@ -72,4 +92,4 @@ If all this works as intended, your GitHub Page should display online.
 ### Once Published
 - Looks good. 
 - On Mobile, it seems the NavBar details are not displayed.
-- Footer displayed correctly
+- Footer displayed correctly.

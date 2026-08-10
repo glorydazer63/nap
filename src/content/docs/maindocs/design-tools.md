@@ -5,17 +5,27 @@ description: Design Tools
 seo: false
 latest:
 created: 2026-07-07
-modified: 2026-08-05
+modified: 2026-08-10
 ---
 
 ## VS Code
 When designing Astro sites there is the ability to edit the source files using **VS Code**. We can dovetail directly into GitHub, so that the local pages can be made available offline.
 
 ## Obsidian
-Mostly though, I prefer to manage source content files in the Obsidian workspace.  As the files are directly linked to text files (in markdown md format) on your hard drive, these can easily be uploaded to your GitHub repository (repo) via GitHub Initialize Commands.
+Mostly though, I prefer to manage source content files in the Obsidian workspace.  As the files are directly linked to text files (in markdown md format) on your hard drive, these can easily be uploaded to your GitHub repository (repo) via GitHub Commands such as git add, git commit and git push.
 
 ## GitHub
-We use GitHub as a central repository as our versioning environment and as a carrier for the N&P website. GitHub is our online holding storage area, which we can then pipe out to various different static site generators (SSG), like Retype/GitHub Pages, Flowershow/Vercel and Astro/GitHub Pages or Astro/Netlify. 
+We use GitHub's central repository as our versioning environment and as a carrier for the N&P website. GitHub is our online holding storage area, which we can then pipe out to various different static site generators (SSG), like Retype/GitHub Pages, Flowershow/Vercel and Astro/GitHub Pages or Astro/Netlify.
+
+## SSH Keys
+When using various git commands to interrogate the online GitHub repo, you will be required to add a deploy key to lock down the connection between your local machine and GitHub. 
+
+This is done in three steps:
+- create your SSH key via a git command. 
+- authenticate the created SSH key, also by git command. 
+- add the SSH key phrase, into the `Repo > Settings > Deploy` section.
+
+Refer to the [SSH Keys](/src/contebt/docs/maindocs/ssh-keys) page for more. 
 
 ## Retype
 Retype is a SSG is run on the local machine to generate content which is uploaded to a GitHub repo. Relatively straight forward to execute. Refer [Retype Workflow](/src/content/docs/workflows/Retype-Workflow)

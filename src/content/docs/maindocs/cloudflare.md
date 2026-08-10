@@ -6,7 +6,7 @@ seo: false
 tags:
   - cloudflare
 created: 2026-07-07
-modified: 2026-08-06
+modified: 2026-08-10
 ---
 
 ## Introduction
@@ -19,11 +19,11 @@ Cloudflare is a large scale ecosystem categorized as a CDN (Content Delivery Net
 Depending on the extent of the clients requirements (website scope, size etc), a static website can take advantage of Cloudflare's ecosystem particularly if the website is large, and global reach is important.
 
 ### AI and LLM Access
-Cloudflare has a tool that either allows or disallows access to Search bots and AI and LLM bots. 
+Cloudflare has a tool that either allows or disallows access to Search bots plus AI and LLM bots. 
 
 Displays are also available to see where website visitors are coming from.
 
-I won't go into too much detail as to what is required because it is a bit technical, but if clients are interested, then they contact me on the [Contact](/src/content/docs/contact) page.
+I won't go into too much detail as to what is required because it is a bit technical, but if clients are interested, then they contact me on the [Contact](/src/content/docs/general/contact) page.
 
 ### SEO Consideration
 Cloudflare uses agents to ensure content passed through it will be picked up for SEO. Selected Search/Index bots are switched on (Google, Bing, Apple etc) enabling all latest files generated in the websites sitemap are made available to the approved search bots.

@@ -6,12 +6,15 @@ seo: false
 tags:
   - sitemap
   - github-pages
+  - google-search-console
 created: 2026-08-10
 modified: 2026-08-10
 ---
 
 ## Overview
-When using GitHub Pages, a sitemap is only created when using a Jekyll theme. For all other static site generators, an GitHub Actions script is required to build the XML file. 
+When using GitHub Pages, a sitemap is only created when using a Jekyll theme. For all other static site generators, a GitHub Actions script is required to build the XML file. 
+
+`file nane: sitemap.xml`
 
 ```
 name: Generate xml sitemap
@@ -44,6 +47,6 @@ jobs:
         echo "excluded-count = ${{ steps.sitemap.outputs.excluded-count }}"
 ```
 
-This script needs to be added into each Repo you are working with. 
+This xml script needs to be added into each Repo you are working with. 
 
-After generating the sitemap, submit it to **Google Search Console** by navigating to the **Sitemaps** section and entering the filename (e.g., **sitemap.xml**).
+After generating the sitemap, and testing that it displays correctly on your published site, submit it to the **Google Search Console** website, by navigating to the **Sitemaps** section and entering the filename (e.g., **sitemap.xml**).
