@@ -28,4 +28,4 @@ Run Lighthouse as a browser extension. Typically use a browser like Google Chrom
 
 It should look something like this:
 
-[Lighthouse Report](https://i.postimg.cc/kgKkwCDg/lighthouse-nap.png)
+![Lighthouse Report](https://i.postimg.cc/kgKkwCDg/lighthouse-nap.png)
