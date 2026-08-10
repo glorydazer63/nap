@@ -7,7 +7,7 @@ export default defineConfig({
 site: 'https://glorydazer63.github.io/nap',
 base: '/nap',
 output: 'static',
-integrations: [sitemap()],
+integrations:
 			[starlight({
 			components: {
 			Footer: './src/components/CustomFooter.astro',
