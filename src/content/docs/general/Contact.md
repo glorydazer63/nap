@@ -30,8 +30,8 @@ Use the form below to contact us.
   </label>
 
   <label>
-    Your message:
-    <textarea name="message" class="formspree-textarea" placeholder="Your message..">
+    Your Message:
+    <textarea type="text" name="message" class="formspree-textarea" placeholder="Your message.."><br/><br/>
   </textarea>
 
   </label>
