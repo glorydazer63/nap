@@ -34,7 +34,6 @@ Use the form below to contact us.
     <textarea type="text" name="message" rows="20" cols="30" placeholder="Your message.."><br/><br/>
   </label>
 
-  </label>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
