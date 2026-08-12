@@ -13,33 +13,48 @@ Use the form below to contact us.
 
 ---
 
-<!-- Example: Adding a custom class 'my-contact-form' -->
-<form class="my-contact-form" action="https://formspree.io/f/mgawkjle" method="POST">
-
-  <style>
-    /* Scoped CSS for this form */
-    .my-contact-form input {
-      border: 1px solid #ccc;
-      padding: 10px;
-      border-radius: 4px;
+ 
+Code examples
+<!-- Read the Formbutton docs at formspree.io/formbutton/docs. See more examples at codepen.io/formspree -->
+<script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
+<script>
+  /* paste this line in verbatim */
+  window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
+  /* customize formbutton below*/     
+  formbutton("create", {
+    action: "https://formspree.io/f/mgawkjle",
+    title: "How can we help?",
+    fields: [
+      { 
+        type: "email", 
+        label: "Email:", 
+        name: "email",
+        required: true,
+        placeholder: "your@email.com"
+      },
+      {
+        type: "textarea",
+        label: "Message:",
+        name: "message",
+        width: 100%,
+        box-sizing: border-box, /* Ensures padding/border are included in the 100% width */
+        min-height: 100px, /* Sets a consistent starting height */
+        resize: vertical, /* Allows users to expand height if needed, but keeps width fixed */
+        placeholder: "What's on your mind?",
+        font-size: 16px /* Prevents iOS zoom on focus */
+      },
+      { type: "submit" }      
+    ],
+    styles: {
+      title: {
+        backgroundColor: "gray"
+      },
+      button: {
+        backgroundColor: "gray"
+      }
     }
-     my-contact-form input {
-      border: 1px solid #ccc;
-      padding: 10px;
-      border-radius: 4px;
-    }
-    .my-contact-form button {
-      background-color #FF3131;
-    }
-  </style>
-  
-<label>Your Name and Email:  </label><br/><br/>
-<input type="text" name="name" placeholder="Your Name"><br/><br/>
-<input type="email" name="email" placeholder="Your Email"><br/><br/>
-<label for="message">Message:</label><br/><br/>
-<textarea id="message" name="message" width="100%" box-sizing="border-box" resize="vertical" font-size="16px" placeholder="Your Message..."></textarea><br/><br/>
-<button type="submit">Send Button</button>
-</form>
+  });
+</script>
 
 ---
 
