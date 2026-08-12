@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "500bfc33cabd46ca",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "4a63f22bb2349801",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "src/content/docs/general/Home.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Home"
             }
           }
         ]
@@ -157,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "src/content/docs/general/Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,7 +189,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4a63f22bb2349801",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "src/content/docs/maindocs/design-tools.md",
     "src/content/docs/maindocs/ssh-keys.md",
