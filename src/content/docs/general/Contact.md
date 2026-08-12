@@ -37,7 +37,7 @@ Use the form below to contact us.
 <input type="text" name="name" placeholder="Your Name"><br/><br/>
 <input type="email" name="email" placeholder="Your Email"><br/><br/>
 <label for="message">Message:</label><br/><br/>
-<textarea id="message" name="message" rows="20" cols="27" placeholder="Your Message..."></textarea><br/><br/>
+<textarea id="message" name="message" width="100%" box-sizing="border-box" resize="vertical" font-size="16px" placeholder="Your Message..."></textarea><br/><br/>
 <button type="submit">Send Button</button>
 </form>
 
