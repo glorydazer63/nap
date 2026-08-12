@@ -32,7 +32,7 @@ Use the form below to contact us.
   <label>
     Your message:
     <textarea name="message" class="formspree-textarea" placeholder="Your message..">
-  </textarea><br/><br/>
+  </textarea>
 
   </label>
   <!-- your other form fields go here -->
