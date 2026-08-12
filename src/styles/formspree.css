@@ -2,6 +2,8 @@ textarea.formspree-textarea {
     width: 100%;
     height: 150px;
     padding: 10px;
+    rows: 20;
+    cols: 30;
     border: 1px solid #ccc;
     resize: vertical; /* Allows users to expand if needed, but keeps base size */
 }   
