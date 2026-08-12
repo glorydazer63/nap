@@ -21,17 +21,18 @@ Use the form below to contact us.
 >
   <label>
     Your Name:
-    <input type="text" name="name" placeholder="Your name..">
+    <input type="text" name="name" placeholder="Your name.."><br/><br/>
   </label>
 
   <label>
     Your Email:
-    <input type="email" name="email" placeholder="Your email address..">
+    <input type="email" name="email" placeholder="Your email address.."><br/><br/>
   </label>
 
   <label>
     Your message:
-    <textarea name="message" class="formspree-textarea" placeholder="Your message"></textarea>
+    <textarea name="message" class="formspree-textarea" placeholder="Your message.."><br/><br/>
+    </textarea>
 
   </label>
   <!-- your other form fields go here -->
