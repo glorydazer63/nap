@@ -27,7 +27,8 @@ Your Email:
 
 <label>
 Your Message:
-<textarea name="message" class="formspree-textarea" placeholder="Your message..">
+<textarea name="message" rows="20" cols="40" placeholder="Your message..">
+</textarea>
 </label>
 
 <!-- your other form fields go here -->
