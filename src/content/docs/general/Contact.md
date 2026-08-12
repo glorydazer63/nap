@@ -31,8 +31,8 @@ Use the form below to contact us.
 
   <label>
     Your Message:
-    <textarea type="text" name="message" class="formspree-textarea" placeholder="Your message.."><br/><br/>
-  </textarea>
+    <textarea type="text" name="message" rows="20" cols="30" placeholder="Your message.."><br/><br/>
+  </label>
 
   </label>
   <!-- your other form fields go here -->
