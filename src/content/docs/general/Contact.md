@@ -13,8 +13,6 @@ Use the form below to contact us.
 
 ---
 
- 
-Code examples
 <!-- Read the Formbutton docs at formspree.io/formbutton/docs. See more examples at codepen.io/formspree -->
 <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
 <script>
@@ -36,12 +34,12 @@ Code examples
         type: "textarea",
         label: "Message:",
         name: "message",
-        width: 100%,
-        box-sizing: border-box, /* Ensures padding/border are included in the 100% width */
-        min-height: 100px, /* Sets a consistent starting height */
-        resize: vertical, /* Allows users to expand height if needed, but keeps width fixed */
+        width: "100%",
+        box-sizing: "border-box", /* Ensures padding/border are included in the 100% width */
+        min-height: "100px", /* Sets a consistent starting height */
+        resize: "vertical", /* Allows users to expand height if needed, but keeps width fixed */
         placeholder: "What's on your mind?",
-        font-size: 16px /* Prevents iOS zoom on focus */
+        font-size: "16px" /* Prevents iOS zoom on focus */
       },
       { type: "submit" }      
     ],
