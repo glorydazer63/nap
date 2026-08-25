@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/docs/general/Home.md",
-                "mode": "preview",
+                "file": "src/content/docs/maindocs/sitemap-generation.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "sitemap-generation"
             }
           }
         ]
@@ -117,6 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "src/content/docs/maindocs/sitemap-generation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,13 +174,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "src/content/docs/maindocs/single-user-or-multi-user-access.md",
+    "src/content/docs/maindocs/cloudflare.md",
+    "src/content/docs/general/Home.md",
     "src/content/docs/maindocs/examples.md",
     "src/content/docs/workflows/astro-workflow.md",
-    "src/content/docs/general/Home.md",
     "src/content/docs/maindocs/ssh-keys.md",
     "src/content/docs/maindocs/design-tools.md",
     "src/content/docs/workflows/retype-workflow.md",
-    "src/content/docs/maindocs/cloudflare.md",
     "src/content/docs/maindocs/customised-domains.md",
     "src/content/docs/local-env/Syncthing.md",
     "src/content/docs/general/About.md",
