@@ -1,6 +1,6 @@
 ---
 author: GeorgeT
-title: single-user-or-multi-user-access
+title: Single-User-Or-Multi-User-Access
 description: Static website as single or multi user access
 seo: false
 tags:

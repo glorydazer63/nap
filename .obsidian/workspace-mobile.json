@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "sitemap-generation"
             }
+          },
+          {
+            "id": "a8120468eeae2230",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/content/docs/maindocs/single-user-or-multi-user-access.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "single-user-or-multi-user-access"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "src/content/docs/maindocs/sitemap-generation.md",
+            "file": "src/content/docs/maindocs/single-user-or-multi-user-access.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -172,11 +187,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a8120468eeae2230",
   "lastOpenFiles": [
+    "src/content/docs/maindocs/implementation.md",
+    "src/content/docs/general/Home.md",
+    "src/content/docs/maindocs/sitemap-generation.md",
     "src/content/docs/maindocs/single-user-or-multi-user-access.md",
     "src/content/docs/maindocs/cloudflare.md",
-    "src/content/docs/general/Home.md",
     "src/content/docs/maindocs/examples.md",
     "src/content/docs/workflows/astro-workflow.md",
     "src/content/docs/maindocs/ssh-keys.md",
@@ -187,7 +204,6 @@
     "src/content/docs/general/About.md",
     "src/content/docs/general/Contact.md",
     "src/content/docs/contact.md",
-    "src/content/docs/maindocs/sitemap-generation.md",
     "src/content/docs/maindocs/robots-txt.md",
     "src/content/docs/maindocs/google-search.md"
   ]
