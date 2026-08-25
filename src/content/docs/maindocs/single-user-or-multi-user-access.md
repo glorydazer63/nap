@@ -10,7 +10,7 @@ modified: 2026-08-25
 ---
 
 ## Static Website Access
-Most static websites are set up as a single user access point, due mainly to the design of the static infrastructure, which does not cater for multi user accessibility. Unlike platforms like WordPress, Jolmla, Drupal, Wikipefia, DokuWiki or Forum software (like Flarum, Discord etc).
+Most static websites are set up as a single user access point, due mainly to the design of the static infrastructure, which does not cater for multi user accessibility. Unlike platforms like WordPress, Joomla, Drupal, Wikipedia, DokuWiki or Forum software (like Flarum, Discord etc).
 
 Bear this in mind when asking for a static website to be built and not being able to access it if another party (external Web developer) has built it.
 
@@ -18,7 +18,7 @@ Bear this in mind when asking for a static website to be built and not being abl
 Yes there are exceptions, let's look at a few of these.
 
 ### DeCap CMS (formerly Netlify CMS)
-Decap is a popular and free content management system specialising in static website deployment with the ability to have a team based structure where the developer side and the client side are kept separate though still within the same repository.
+**Decap** is a popular and free content management system specialising in static website deployment with the ability to have a team based structure where the developer side and the client side are kept separate though still within the same repository.
 
 This approach has merit, as the Repo can be managed in the same way when being pushed to a GitHub environment, and then being published to the web platform of your choice (GitHub Pages, Netlify, Vercel, Cloudflare etc).
 
@@ -35,4 +35,4 @@ There are two relationships to consider when wanting a static website built:
 - the client themselves arrange their own Git repository and their own publishing backend, as in setting up their own GitHub Pages, Netlify, Vercel or Cloudflare account, and then invite the Developer in as a technical resource.
 - if the developer organises everything, then it's the other way around.
 
-From a business continuity perspective, it is probably better that the client brings everything under their own umbrella. If this is not possible, then the Developer can set it up, do the work, then transfer all the undertaken work activity and transfer it from firstly,  within GitHub and then within the Publishing backend, as per Netlify as an example.
+From a business continuity perspective, it is probably better that the client brings everything under their own umbrella. If this is not possible, then the Developer can set it up, do the work, then transfer all the undertaken work activity and transfer it from firstly,  within GitHub, and then within the Publishing backend, as per Netlify as an example. Once this is done, the client owns and manages their own infrastructure, while the Developer closes off their involvement upon completion.

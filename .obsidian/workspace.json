@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/docs/general/Home.md",
+                "file": "src/content/docs/maindocs/single-user-or-multi-user-access.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "single-user-or-multi-user-access"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/content/docs/general/Home.md",
+                "file": "src/content/docs/maindocs/single-user-or-multi-user-access.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,12 +191,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "src/content/docs/general/Home.md",
     "src/content/docs/maindocs/design-tools.md",
     "src/content/docs/maindocs/ssh-keys.md",
     "SSH Keys.md",
     "src/content/docs/general/Contact.md",
     "src/content/docs/maindocs/cloudflare.md",
-    "src/content/docs/general/Home.md",
     "src/content/docs/workflows/flowershow-workflow.md",
     "package-lock.json",
     "package-lock-original.json",
